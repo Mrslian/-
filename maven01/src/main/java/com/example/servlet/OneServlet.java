@@ -13,7 +13,7 @@ public class OneServlet extends HttpServlet {
 
 	public void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 			
-		response.getWriter().write("hello git");
+		response.getWriter().write("hello");
 	
 	}
 
